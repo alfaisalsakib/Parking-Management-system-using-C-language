@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524380031 source:e:\codeblockes\parking management\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1524380031 source:s:\semesters & courses\misc cse courses\cse-115\my codes\parking management\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
